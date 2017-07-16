@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository hosts some projects about machine leaning especially neural network and deep leaning.
+This repository hosts some projects about machine leaning especially Convolutional Neural Network and Deep learning.
